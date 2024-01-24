@@ -1,0 +1,844 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    margin: 0%;
+}
+
+
+body {position: relative;
+    background-image: url(./www.pokemon.com-1705569196828/body_bg.png);
+    margin: 0%;
+}
+
+/* nav1 */
+.nav1 {padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #e5dfdf;
+    ;
+    width: 100%;
+    margin: 0%;
+    height: 60px;
+}
+
+.nav1 .navimg1,
+.navimg2,
+.navimg3,
+.navimg4,
+.navimg5,
+.navimg6 {
+    float: left;
+    ;
+    padding: 3px;
+}
+
+.navimg1 {
+    padding: 10px 20px;
+    margin-left: 250px;
+}
+
+.navimg2 img:hover {
+    box-shadow: -4px -2px 31px 8px rgba(156, 133, 133, 0.51);
+
+}
+
+.navimg3 img:hover {
+    box-shadow: -4px -2px 31px 8px rgba(156, 133, 133, 0.51);
+
+}
+
+.navimg4 img:hover {
+    box-shadow: -4px -2px 31px 8px rgba(156, 133, 133, 0.51);
+
+}
+
+.navimg5 img:hover {
+    box-shadow: -4px -2px 31px 8px rgba(156, 133, 133, 0.51);
+
+}
+
+.navimg6 img:hover {
+    box-shadow: -4px -2px 31px 8px rgba(156, 133, 133, 0.51);
+
+}
+
+/* nav2 */
+.nav2 {
+    display: flex;
+
+    background-color: whitesmoke;
+}
+
+
+.menu1 {
+    background-color: gray;
+    padding: 10px 20px;
+    text-align: center;
+    margin-left: 260px;
+    border-bottom: 5px solid gray;
+    border-radius: 5px;
+}
+
+.menu1 span {
+    color: white;
+}
+
+.menu2 {
+    padding: 10px 30px;
+    text-align: center;
+    border-bottom: 5px solid #E33503;
+}
+
+.menu2 span {
+    color: gray;
+}
+
+.menu3 {
+    padding: 10px 20px;
+    text-align: center;
+    border-bottom: 5px solid rgb(227, 152, 13);
+}
+
+.menu3 span {
+    color: gray;
+}
+
+.menu4 {
+    padding: 10px 20px;
+    text-align: center;
+    border-bottom: 5px solid rgb(215, 215, 31);
+}
+
+.menu4 span {
+    color: gray;
+}
+
+.menu5 {
+    padding: 10px 20px;
+    text-align: center;
+    border-bottom: 5px solid yellowgreen;
+}
+
+.menu5 span {
+    color: gray;
+}
+
+.menu6 {
+    padding: 10px 20px;
+    text-align: center;
+    border-bottom: 5px solid rgb(72, 140, 167)
+}
+
+.menu6 span {
+    color: gray;
+}
+
+.menu7 {
+    padding: 10px 20px;
+    text-align: center;
+    border-bottom: 5px solid rgb(93, 93, 218);
+}
+
+.menu7 span {
+    color: gray;
+}
+
+.menu2:hover {
+    background-color: #E33503;
+
+}
+
+.menu2 :hover {
+    color: white;
+}
+
+.menu3:hover {
+    background-color: rgb(227, 152, 13);
+
+}
+
+.menu3 :hover {
+    color: white;
+}
+
+.menu4:hover {
+    background-color: rgb(215, 215, 31);
+
+}
+
+.menu4 :hover {
+    color: white;
+}
+
+.menu5:hover {
+    background-color: yellowgreen;
+
+}
+
+.menu5 :hover {
+    color: white;
+}
+
+.menu6:hover {
+    background-color: rgb(72, 140, 167);
+
+}
+
+.menu6 :hover {
+    color: white;
+}
+
+.menu7:hover {
+    background-color: rgb(93, 93, 218);
+
+}
+
+.menu7 :hover {
+    color: white;
+}
+
+p {
+    color: gray;
+}
+
+.menu1 p {
+    color: aliceblue;
+}
+
+/* artical */
+.a1 {
+    background-image: url(./www.pokemon.com-1705569196828/container_bg.png);
+    background-color: white;
+    margin: auto;
+    margin-left: 50px;
+    display: flex;
+    margin-right: 50px;
+}
+
+.a1 .card1 {
+    width: 80%;
+    margin-left: 200px;
+    margin-top: 20px;
+
+}
+
+.card1 img:hover {
+    box-shadow: -26px -7px 196px -9px rgba(200, 194, 15, 0.75);
+}
+
+.cardimg1 img {
+    width: 100%;
+    border-radius: 5px 5px 0px 0px;
+
+}
+
+.text1 {
+    width: 100%;
+    ;
+    border-radius: 0 0 5px 5px;
+    text-align: center;
+
+    background-color: #e6bc2f;
+}
+
+
+.text1 h3 {
+    color: white;
+    font-size: 20px;
+    padding: 0px 0px 10px 10px;
+    margin: 0%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.text1 p {
+    font-size: 15px;
+    padding: 10px;
+    color: black;
+}
+
+
+/* 2cards */
+.2card {
+    width: 100%;
+}
+
+.card2 {
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 50%;
+}
+
+.card2:hover {
+    box-shadow: -26px -7px 196px -9px rgba(171, 70, 191, 0.75);
+}
+
+.cardimg2 img {
+    width: 100%;
+}
+
+.text2 {
+    background-color: #855ac9;
+    width: 100%;
+    border-radius: 0 0 5px 5px;
+}
+
+.text2 h3 {
+    font-size: 20px;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+
+.a2 {
+    background-image: url(./www.pokemon.com-1705569196828/container_bg.png);
+    background-color: white;
+    margin: auto;
+    margin-left: 50px;
+    display: flex;
+    margin-right: 50px;
+}
+
+.card3 {background-color: antiquewhite;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding-bottom: 0px;
+    display: flex;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 50%;
+}
+
+.card3:hover {
+    box-shadow: -26px -7px 196px -9px rgba(10, 39, 226, 0.75);
+}
+
+.card3 .cardimg3 img {
+    width: 100%;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.text3 {
+    width: 100%;
+    border-radius: 0 0 5px 5px;
+    background-color: #1b53ba;
+}
+
+.text3 h3 {
+    font-size: 20px;
+    padding: 5px;
+    margin-top: 20px;
+    color: white;
+}
+
+.a2 {
+    background-image: url(./www.pokemon.com-1705569196828/container_bg.png);
+    background-color: white;
+    margin: auto;
+    margin-left: 50px;
+    display: flex;
+    margin-right: 50px;
+}
+
+.card4 {
+    margin-left: 185px;
+    margin-top: 0px;
+    margin-bottom: 70px;
+    width: 20%;
+}
+
+.card4:hover {
+    box-shadow: -26px -7px 196px -9px rgba(39, 56, 212, 0.75);
+}
+
+.cardimg4 img {
+    border-radius: 5px 5px 0px 0px;
+    width: 100%;
+}
+
+.text4 {
+    background-color: #30a7d7;
+    border-radius: 0 0 5px 5px;
+    text-align: center;
+    padding-bottom: 23px;
+    width: 100%;
+}
+
+.text4 h3 {
+    font-size: 20px;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+
+.card5 {
+    margin-left: 20px;
+    margin-top: 0px;
+    margin-bottom: 70px;
+    width: 20%;
+}
+
+.card5:hover {
+    box-shadow: -26px -7px 196px -9px rgba(135, 136, 144, 0.75);
+}
+
+.cardimg5 img {
+    border-radius: 5px 5px 0px 0px;
+    width: 100%;
+}
+
+.text5 {
+    background-color: #a4a4a4;
+    border-radius: 0 0 5px 5px;
+    text-align: center;
+    width: 100%;
+}
+
+.text5 h3 {
+    font-size: 20px;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+
+.card6 {
+    margin-left: 20px;
+    margin-top: 0px;
+    margin-bottom: 70px;
+    width: 20%;
+}
+
+.card6:hover {
+    box-shadow: -26px -7px 196px -9px rgba(20, 116, 73, 0.75);
+}
+
+.cardimg6 img {
+    border-radius: 5px 5px 0px 0px;
+    width: 100%;
+}
+
+.text6 {
+    background-color: rgb(58, 56, 56);
+    border-radius: 0 0 5px 5px;
+    text-align: center;
+    width: 100%;
+}
+
+.text6 h3 {
+    font-size: 20px;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+
+.a3 {
+    background-image: url(./www.pokemon.com-1705569196828/container_bg.png);
+    background-color: white;
+    margin: auto;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+
+
+.card7 {
+    margin-bottom: 100px;
+    margin-top: 0px;
+    border: 2px solid black;
+    width: 20%;
+    position: relative;
+    background-color: gray;
+}
+
+.cardimg7 img {
+
+    width: 100%;
+}
+
+.text7 {
+    background-color: rgb(58, 56, 56);
+    text-align: center;
+    width: 100%;
+}
+
+.text7 h3 {
+    font-size: 20px;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+
+
+
+.cardimg7 img:hover {
+    opacity: 0.5;
+}
+
+
+.bol {margin-bottom: 250px;
+    margin-left: 250px;
+    margin-top: 279px;
+    background-color: black;
+    display: flex;
+    padding: 10px 0px;
+}
+
+.bol {
+    border-radius: 10px;
+    position: absolute;
+}
+
+.bol p {
+    padding-top: 10px;
+    padding-left: 10px;
+    color: white;
+}
+
+.bol img {
+    width: 20%;
+}
+
+.card11 {
+    margin-left: 185px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+
+    width: 20%;
+}
+
+.card11:hover {
+    box-shadow: -26px -7px 196px -9px rgba(39, 56, 212, 0.75);
+}
+
+.cardimg11 img {
+    border-radius: 5px 5px 0px 0px;
+    width: 100%;
+}
+
+.text11 {
+    background-color: rgba(239, 126, 45, 0.918);
+    border-radius: 0 0 5px 5px;
+    text-align: center;
+    padding-bottom: 20px;
+    width: 100%;
+}
+
+.text11 h3 {
+    font-size: 20px;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+.text11 p{
+    color: #1a1b1b;
+}
+
+.card12 {
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-top: 0px;
+
+    width: 20%;
+}
+
+.card12:hover {
+    box-shadow: -26px -7px 196px -9px rgba(39, 56, 212, 0.75);
+}
+
+.cardimg12 img {
+    border-radius: 5px 5px 0px 0px;
+    width: 100%;
+}
+
+.text12 {
+    background-color: #1a1b1b;
+    border-radius: 0 0 5px 5px;
+    text-align: center;
+    padding-bottom: 37px;
+    width: 100%;
+}
+
+.text12 h3 {
+    font-size: 20px;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+.text12 p{color:white;}
+
+
+
+.card13 {
+    margin-bottom: 20px;
+    margin-left: 10px;
+
+    margin-top: 0px;
+
+    width: 20%;
+}
+
+.card13:hover {
+    box-shadow: -26px -7px 196px -9px  #30a7d7 
+}
+
+.cardimg13 img {
+    border-radius: 5px 5px 0px 0px;
+    width: 100%;
+}
+
+.text13 {
+    background-color: rgba(30, 203, 17, 0.75);
+    border-radius: 0 0 5px 5px;
+    text-align: center;
+    padding-bottom: 50px;
+    width: 100%;
+}
+
+.text13 h3 {
+    font-size: 20px;
+    padding: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+
+.text13 p{font-size: 20px;
+    color: #1a1b1b;
+}
+.card14 {
+    margin-left: 185px;
+    margin-top: 0px;
+    margin-bottom: 70px;
+    width: 20%;
+}
+
+.card14:hover {
+    box-shadow: -26px -7px 196px -9px rgba(39, 56, 212, 0.75);
+}
+
+.cardimg14 img {
+    border-radius: 5px 5px 0px 0px;
+    width: 100%;
+}
+
+.text14 {
+    background-color: #30a7d7;
+    border-radius: 0 0 5px 5px;
+    text-align: center;
+    padding-bottom: 23px;
+    width: 100%;
+}
+
+.text14 h3 {
+    font-size: 20px;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+.text14 p{
+    color: #1a1b1b;font-size: 15px;
+} 
+
+.card15 {
+    margin-left: 10px;
+    margin-top: 60px;
+    margin-bottom: 70px;
+    width: 20%;
+}
+
+.card15 h1 {
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #a4a4a4;
+}
+
+.card15:hover {
+    box-shadow: -26px -7px 196px -9px rgba(39, 56, 212, 0.75);
+}
+
+.cardimg15 img {
+    border-radius: 5px 5px 0px 0px;
+    width: 100%;
+}
+
+.text15 {
+    background-color: #e8de17;
+    border-radius: 0 0 5px 5px;
+    text-align: center;
+    padding-bottom: 23px;
+    width: 100%;
+}
+
+.text15 h3 {
+    font-size: 20px;
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+.text15 p{font-size: 15px;
+    color: #1a1b1b;
+}
+
+.card16 {
+    margin-left: 10px;
+
+    margin-top: 0px;
+    margin-bottom: 70px;
+    width: 20%;
+}
+
+.card16:hover {
+    box-shadow: -26px -7px 196px -9px rgba(39, 56, 212, 0.75);
+}
+
+.cardimg16 img {
+    border-radius: 5px 5px 0px 0px;
+    width: 100%;
+}
+
+.text16 {
+    background-color: #a524cd;
+    border-radius: 0 0 5px 5px;
+    text-align: center;
+    padding-bottom: 23px;
+    width: 100%;
+}
+
+.text16 h3 {
+    font-size: 20px;
+    padding: 8px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+.text16 p{
+    color: #1a1b1b;
+} 
+
+.view {
+    margin-top: 10px;
+    width: 100%;
+}
+
+.view h3 {font-size: 30px;padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(219, 99, 25);
+}
+
+.view p {font-size: 20px;
+    color: white;
+    width: 94;
+    padding: 20px;
+    background-color: #497688;
+    border-radius: 0px 0px 20px 0px;
+}
+
+.bol2 {
+    margin-top: 720px;
+    margin-left: 770px;
+    background-color: black;
+    display: flex;
+    padding: 10px 10px;
+}
+
+.bol2 {
+    border-radius: 10px;
+    position: absolute;
+}
+
+.bol2 h3 {
+
+    color: white;
+}
+
+/* footer */
+
+.footer{display: flex;
+    background-color: #1a1b1b;
+}
+
+.form{margin-top: 20px;margin-left: 230px;
+    width: 50%;
+}
+.form h1{margin-bottom: 10px;
+    color: white;
+}
+.form .email{
+    width: 100%;
+}
+ input{border-radius: 5px;padding: 10px;margin-bottom: 10px;
+    width: 40%;
+}
+select{border-radius: 5px;padding: 10px;margin-bottom: 10px;
+    width: 40%;margin-left: 10px;
+    
+}
+.submit{width: 100px;margin-bottom: 10px;
+    border-radius: 5px 
+}
+.submit input{width: 100%;font-size: 17px;font-weight: bold;
+    color: white;background-color: gray;padding: 10px;
+}
+.footer .checkbox input{width: 10px;
+    padding: 100px;margin: 10px;
+}
+.footer .checkbox  label{
+    color: white;
+}
+.footer .checkbox  p{font-size: 17px;margin-left: 20px;
+    color: white;
+}
+.footer .checkbox{
+    margin-top: 30px;
+}
+.footer2{color: white;display: flex;
+    background-color: black;
+}
+ul{
+    list-style: none;
+}
+.li1 h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   margin-bottom: 10px;
+    font-size: 25px
+   
+}
+.li1 ul li{
+    margin-bottom: 10px;
+}
+.strip img{margin-right: 50px;
+margin-left: 50px;
+  
+   height: 200px;
+}
+.li1{margin-top: 10px;
+    margin-left: 230px;
+    margin-right: 50px;
+}
+.li2{
+    
+    margin-left: 50px;
+}
+.socialicon{
+    margin-top: 10px;
+}
+.logincard{position: fixed;display: inline-block;margin-top: 50px;
+    width: 5%;
+}
+
+.login1{background-color: rgb(51, 186, 51);text-align: center;padding-top: 20px;padding-bottom: 5px;
+    width: 60px;border-radius: 0px 10px 0px 0px ;color: white;height: 80px;
+}
+.logincard .loginicon img{
+    width: 50px;
+}
+.logincard .logintext{
+    width: 100%;
+}
+.logincard .searchlogin img{
+    width: 60px;
+}
