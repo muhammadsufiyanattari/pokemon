@@ -478,10 +478,10 @@ p {
 
 .bol {margin-bottom: 250px;
     margin-left: 250px;
-    margin-top: 279px;
+    margin-top: 265px;
     background-color: black;
     display: flex;
-    padding: 10px 0px;
+    padding: 5px 5px;
 }
 
 .bol {
@@ -738,8 +738,8 @@ p {
 }
 
 .bol2 {
-    margin-top: 720px;
-    margin-left: 770px;
+    margin-top: 670px;
+    margin-left: 750px;
     background-color: black;
     display: flex;
     padding: 10px 10px;
