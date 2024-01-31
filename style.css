@@ -341,7 +341,7 @@ p {
 }
 
 .card4 {
-    margin-left: 185px;
+    margin-left: 200px;
     margin-top: 0px;
     margin-bottom: 70px;
     width: 20%;
@@ -361,18 +361,20 @@ p {
     border-radius: 0 0 5px 5px;
     text-align: center;
     padding-bottom: 23px;
-    width: 100%;
+    width: 100%;height: 110px;
 }
 
 .text4 h3 {
     font-size: 20px;
     padding: 20px;
+    padding-top: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: white;
 }
 
 .card5 {
-    margin-left: 20px;
+    margin-left: 26px;
+    margin-right: 26px;
     margin-top: 0px;
     margin-bottom: 70px;
     width: 20%;
@@ -476,9 +478,9 @@ p {
 }
 
 
-.bol {margin-bottom: 250px;
-    margin-left: 250px;
-    margin-top: 265px;
+.bol {margin-bottom: 270px;
+    margin-left: 222px;
+    margin-top: 275px;
     background-color: black;
     display: flex;
     padding: 5px 5px;
