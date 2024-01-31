@@ -373,7 +373,7 @@ p {
 }
 
 .card5 {
-    margin-left: 26px;
+    margin-left: 60px;
     margin-right: 26px;
     margin-top: 0px;
     margin-bottom: 70px;
@@ -422,7 +422,7 @@ p {
 .text6 {
     background-color: rgb(58, 56, 56);
     border-radius: 0 0 5px 5px;
-    text-align: center;
+    text-align: center;height: 130px;
     width: 100%;
 }
 
@@ -480,7 +480,7 @@ p {
 
 .bol {margin-bottom: 270px;
     margin-left: 222px;
-    margin-top: 275px;
+    margin-top: 300px;
     background-color: black;
     display: flex;
    
@@ -740,11 +740,11 @@ p {
 }
 
 .bol2 {
-    margin-top: 670px;
-    margin-left: 750px;
+    margin-top: 700px;
+    margin-left: 850px;
     background-color: black;
     display: flex;
-    padding: 10px 10px;
+    padding: 10px;
 }
 
 .bol2 {
@@ -753,7 +753,7 @@ p {
 }
 
 .bol2 h3 {
-font-size: 20px;
+font-size: 22px;
     color: white;
 }
 
@@ -813,7 +813,7 @@ ul{
     margin-bottom: 10px;
 }
 .strip img{margin-right: 10px;
-margin-left: 20px;
+margin-left: 50px;
   
    height: 200px;
 }
@@ -825,7 +825,7 @@ margin-left: 20px;
     
     margin-left: 3px;
 }
-.socialicon{
+.socialicon{padding-left: 50px;
     margin-top: 10px;
 }
 .logincard{position: fixed;display: inline-block;margin-top: 50px;
