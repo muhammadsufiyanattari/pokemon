@@ -501,7 +501,7 @@ p {
     width: 17%;
 }
 
-.card11 {
+.card11 {margin-right: 40px;
     margin-left: 185px;
     margin-top: 0px;
     margin-bottom: 20px;
@@ -536,7 +536,7 @@ p {
     color: #1a1b1b;
 }
 
-.card12 {
+.card12 {margin-right: 40px;
     margin-bottom: 20px;
     margin-left: 10px;
     margin-top: 0px;
@@ -609,12 +609,12 @@ p {
 }
 .card14 {
     margin-left: 185px;
-    margin-top: 0px;
+    margin-top: 0px;margin-right: 40px;
     margin-bottom: 70px;
     width: 20%;
 }
 
-.card14:hover {
+.card14 .cardimg14 img,.text14 :hover {
     box-shadow: -26px -7px 196px -9px rgba(39, 56, 212, 0.75);
 }
 
@@ -641,7 +641,7 @@ p {
     color: #1a1b1b;font-size: 15px;
 } 
 
-.card15 {
+.card15 {margin-right: 40px;
     margin-left: 10px;
     margin-top: 60px;
     margin-bottom: 70px;
@@ -655,7 +655,7 @@ p {
     color: #a4a4a4;
 }
 
-.card15:hover {
+.card15 .cardimg15 img:hover {
     box-shadow: -26px -7px 196px -9px rgba(39, 56, 212, 0.75);
 }
 
@@ -690,7 +690,7 @@ p {
     width: 20%;
 }
 
-.card16:hover {
+.card16 :hover {
     box-shadow: -26px -7px 196px -9px rgba(39, 56, 212, 0.75);
 }
 
@@ -718,7 +718,7 @@ p {
 } 
 
 .view {
-    margin-top: 10px;
+    margin-top: 25px;
     width: 100%;
 }
 
